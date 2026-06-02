@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "updated": "2026-06-02",
+  "totalLists": 1,
+  "totalSkills": 0,
+  "lists": [
+    {
+      "name": "awesome-ai-skills",
+      "type": "awesome",
+      "description": "精选的 AI Agent Skills 资源索引",
+      "path": "README.md",
+      "categories": [
+        "official", "awesome", "security", "frontend", "backend",
+        "devops", "datascience", "bioinfo", "legal", "marketing", "gamedev"
+      ]
+    },
+    {
+      "name": "marketplace-skills",
+      "type": "marketplace",
+      "description": "CrazyCodeCat 市场 - 可安装的 skill 仓库",
+      "repo": "crazycodecat/marketplace-skills",
+      "categories": ["legal", "automation"]
+    }
+  ]
+}
