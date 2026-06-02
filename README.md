@@ -1,10 +1,14 @@
 # Awesome AI Skills
 
-> 精选的 AI Agent Skills 资源索引。涵盖 Claude Code、Codex CLI、Cursor、Gemini CLI 等主流 AI 编码 Agent 的 Skill 生态。
+> 精选的 AI Agent Skills 资源索引 + **可安装技能仓库**。
+>
+> 本仓库是**唯一的事实来源**——`skills/` 目录下存放实际的 SKILL.md 文件，`_index.json` 是机器可读索引，`README.md` 是人工可读精选列表。
 >
 > ⚠️ **安全提醒**：安装第三方 skill 前请务必检查其代码。详见 [安全审核指南](SECURITY.md)。
 >
-> 本仓库是 [CrazyCodeCat](https://github.com/crazycodecat) 生态的一部分，与 [marketplace-skills](https://github.com/crazycodecat/marketplace-skills) 技能仓库和 CCC 浏览器插件联动。
+> 本仓库是 [CrazyCodeCat](https://github.com/crazycodecat) 生态的核心组件：
+> - `market.crazycodecat.com` 从本仓库读取数据提供 UI 和 API
+> - CCC 浏览器插件直接从本仓库安装 skill
 
 ## 什么是 Agent Skill？
 

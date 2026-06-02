@@ -1,25 +1,56 @@
 {
   "version": 1,
   "updated": "2026-06-02",
-  "totalLists": 1,
-  "totalSkills": 0,
-  "lists": [
+  "description": "awesome-ai-skills — 技能仓库 + 精选索引",
+  "total": 2,
+  "skills": [
     {
-      "name": "awesome-ai-skills",
-      "type": "awesome",
-      "description": "精选的 AI Agent Skills 资源索引",
-      "path": "README.md",
-      "categories": [
-        "official", "awesome", "security", "frontend", "backend",
-        "devops", "datascience", "bioinfo", "legal", "marketing", "gamedev"
-      ]
+      "name": "legal-contract-review",
+      "version": "1.0.0",
+      "description": "中国法律合同审阅助手，基于《民法典》审查合同条款，识别法律风险",
+      "author": "crazycodecat",
+      "license": "MIT",
+      "tags": ["法律", "合同", "审阅", "CCC"],
+      "path": "skills/legal-contract-review",
+      "files": ["SKILL.md", "references/legal-basis.md"],
+      "hasScript": false,
+      "ccc_min_version": "0.1.0",
+      "tactus_compatible": true,
+      "icon": "⚖️",
+      "source": "原创"
     },
     {
-      "name": "marketplace-skills",
-      "type": "marketplace",
-      "description": "CrazyCodeCat 市场 - 可安装的 skill 仓库",
-      "repo": "crazycodecat/marketplace-skills",
-      "categories": ["legal", "automation"]
+      "name": "legal-research-assistant",
+      "version": "1.0.0",
+      "description": "法律检索辅助，法条定位、案例查找、法律分析方法论",
+      "author": "crazycodecat",
+      "license": "MIT",
+      "tags": ["法律", "检索", "研究", "CCC"],
+      "path": "skills/legal-research-assistant",
+      "files": ["SKILL.md"],
+      "hasScript": false,
+      "ccc_min_version": "0.1.0",
+      "tactus_compatible": true,
+      "icon": "🔍",
+      "source": "原创"
+    }
+  ],
+  "external_sources": [
+    {
+      "name": "CSlawyer1985/claude-for-legal-ZH",
+      "description": "中国法律实务 — 12 领域 40+ skill",
+      "url": "https://github.com/CSlawyer1985/claude-for-legal-ZH",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "thuyran/legal-skills-chinese",
+      "description": "中国法律推理/检索 — 38 个纯 prompt skill",
+      "url": "https://github.com/thuyran/legal-skills-chinese"
+    },
+    {
+      "name": "NEU-ZHA/legal-ai-skills",
+      "description": "法律 AI 技能集 — 28 个 skill（北大法宝 MCP）",
+      "url": "https://github.com/NEU-ZHA/legal-ai-skills"
     }
   ]
 }
