@@ -1,0 +1,8 @@
+# 未审核/拦截/标记的技能 — 不上传
+wait_audit/
+flagged/
+blocked/
+_audit-report.json
+
+# 插件（Claude Plugin 转换产物，本地使用）
+plugins/
