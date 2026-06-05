@@ -1,0 +1,137 @@
+{
+  "generatedAt": "2026-06-03T11:42:02Z",
+  "plugins": {
+    "claude-for-legal-ZH": {
+      "verdict": "blocked",
+      "manifestIssues": [
+        {
+          "severity": "high",
+          "label": "缺少必填字段: id",
+          "path": "/Users/burenweiye/Documents/GitHub/00000/awesome-ai-skills/plugins/claude-for-legal-ZH/commercial-legal/.claude-plugin/plugin.json"
+        },
+        {
+          "severity": "medium",
+          "label": "skills/ 目录无 .skill.md 文件",
+          "path": "/Users/burenweiye/Documents/GitHub/00000/awesome-ai-skills/plugins/claude-for-legal-ZH/commercial-legal/skills"
+        },
+        {
+          "severity": "high",
+          "label": "缺少必填字段: id",
+          "path": "/Users/burenweiye/Documents/GitHub/00000/awesome-ai-skills/plugins/claude-for-legal-ZH/privacy-legal/.claude-plugin/plugin.json"
+        },
+        {
+          "severity": "medium",
+          "label": "skills/ 目录无 .skill.md 文件",
+          "path": "/Users/burenweiye/Documents/GitHub/00000/awesome-ai-skills/plugins/claude-for-legal-ZH/privacy-legal/skills"
+        },
+        {
+          "severity": "high",
+          "label": "缺少必填字段: id",
+          "path": "/Users/burenweiye/Documents/GitHub/00000/awesome-ai-skills/plugins/claude-for-legal-ZH/product-legal/.claude-plugin/plugin.json"
+        },
+        {
+          "severity": "medium",
+          "label": "skills/ 目录无 .skill.md 文件",
+          "path": "/Users/burenweiye/Documents/GitHub/00000/awesome-ai-skills/plugins/claude-for-legal-ZH/product-legal/skills"
+        },
+        {
+          "severity": "high",
+          "label": "缺少必填字段: id",
+          "path": "/Users/burenweiye/Documents/GitHub/00000/awesome-ai-skills/plugins/claude-for-legal-ZH/corporate-legal/.claude-plugin/plugin.json"
+        },
+        {
+          "severity": "medium",
+          "label": "skills/ 目录无 .skill.md 文件",
+          "path": "/Users/burenweiye/Documents/GitHub/00000/awesome-ai-skills/plugins/claude-for-legal-ZH/corporate-legal/skills"
+        },
+        {
+          "severity": "high",
+          "label": "缺少必填字段: id",
+          "path": "/Users/burenweiye/Documents/GitHub/00000/awesome-ai-skills/plugins/claude-for-legal-ZH/employment-legal/.claude-plugin/plugin.json"
+        },
+        {
+          "severity": "medium",
+          "label": "skills/ 目录无 .skill.md 文件",
+          "path": "/Users/burenweiye/Documents/GitHub/00000/awesome-ai-skills/plugins/claude-for-legal-ZH/employment-legal/skills"
+        },
+        {
+          "severity": "high",
+          "label": "缺少必填字段: id",
+          "path": "/Users/burenweiye/Documents/GitHub/00000/awesome-ai-skills/plugins/claude-for-legal-ZH/regulatory-legal/.claude-plugin/plugin.json"
+        },
+        {
+          "severity": "medium",
+          "label": "skills/ 目录无 .skill.md 文件",
+          "path": "/Users/burenweiye/Documents/GitHub/00000/awesome-ai-skills/plugins/claude-for-legal-ZH/regulatory-legal/skills"
+        },
+        {
+          "severity": "high",
+          "label": "缺少必填字段: id",
+          "path": "/Users/burenweiye/Documents/GitHub/00000/awesome-ai-skills/plugins/claude-for-legal-ZH/ai-governance-legal/.claude-plugin/plugin.json"
+        },
+        {
+          "severity": "medium",
+          "label": "skills/ 目录无 .skill.md 文件",
+          "path": "/Users/burenweiye/Documents/GitHub/00000/awesome-ai-skills/plugins/claude-for-legal-ZH/ai-governance-legal/skills"
+        },
+        {
+          "severity": "high",
+          "label": "缺少必填字段: id",
+          "path": "/Users/burenweiye/Documents/GitHub/00000/awesome-ai-skills/plugins/claude-for-legal-ZH/litigation-legal/.claude-plugin/plugin.json"
+        },
+        {
+          "severity": "medium",
+          "label": "skills/ 目录无 .skill.md 文件",
+          "path": "/Users/burenweiye/Documents/GitHub/00000/awesome-ai-skills/plugins/claude-for-legal-ZH/litigation-legal/skills"
+        },
+        {
+          "severity": "high",
+          "label": "缺少必填字段: id",
+          "path": "/Users/burenweiye/Documents/GitHub/00000/awesome-ai-skills/plugins/claude-for-legal-ZH/law-student/.claude-plugin/plugin.json"
+        },
+        {
+          "severity": "medium",
+          "label": "skills/ 目录无 .skill.md 文件",
+          "path": "/Users/burenweiye/Documents/GitHub/00000/awesome-ai-skills/plugins/claude-for-legal-ZH/law-student/skills"
+        },
+        {
+          "severity": "high",
+          "label": "缺少必填字段: id",
+          "path": "/Users/burenweiye/Documents/GitHub/00000/awesome-ai-skills/plugins/claude-for-legal-ZH/legal-clinic/.claude-plugin/plugin.json"
+        },
+        {
+          "severity": "medium",
+          "label": "skills/ 目录无 .skill.md 文件",
+          "path": "/Users/burenweiye/Documents/GitHub/00000/awesome-ai-skills/plugins/claude-for-legal-ZH/legal-clinic/skills"
+        },
+        {
+          "severity": "high",
+          "label": "缺少必填字段: id",
+          "path": "/Users/burenweiye/Documents/GitHub/00000/awesome-ai-skills/plugins/claude-for-legal-ZH/legal-builder-hub/.claude-plugin/plugin.json"
+        },
+        {
+          "severity": "medium",
+          "label": "skills/ 目录无 .skill.md 文件",
+          "path": "/Users/burenweiye/Documents/GitHub/00000/awesome-ai-skills/plugins/claude-for-legal-ZH/legal-builder-hub/skills"
+        },
+        {
+          "severity": "high",
+          "label": "缺少必填字段: id",
+          "path": "/Users/burenweiye/Documents/GitHub/00000/awesome-ai-skills/plugins/claude-for-legal-ZH/ip-legal/.claude-plugin/plugin.json"
+        },
+        {
+          "severity": "medium",
+          "label": "skills/ 目录无 .skill.md 文件",
+          "path": "/Users/burenweiye/Documents/GitHub/00000/awesome-ai-skills/plugins/claude-for-legal-ZH/ip-legal/skills"
+        }
+      ],
+      "skillIssues": []
+    }
+  },
+  "summary": {
+    "pass": 0,
+    "flagged": 0,
+    "blocked": 1,
+    "error": 0
+  }
+}
