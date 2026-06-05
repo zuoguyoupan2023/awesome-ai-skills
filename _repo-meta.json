@@ -1,7 +1,8 @@
 {
   "_meta": {
     "updated": "2026-06-04T13:30:00Z",
-    "total": 48
+    "total": 48,
+    "avatars_updated": "2026-06-05T02:52:36Z"
   },
   "repos": {
     "AgriciDaniel/claude-seo": {
@@ -23,7 +24,8 @@
       "pushed_at": "2026-05-25T15:42:04Z",
       "owner": "AgriciDaniel",
       "owner_avatar": "https://avatars.githubusercontent.com/u/223140489?v=4",
-      "license": "MIT"
+      "license": "MIT",
+      "owner_avatar_local": "https://raw.githubusercontent.com/zuoguyoupan2023/awesome-ai-skills/main/avatars/agricidaniel.png"
     },
     "AvdLee/SwiftUI-Agent-Skill": {
       "name": "AvdLee/SwiftUI-Agent-Skill",
@@ -36,7 +38,8 @@
       "pushed_at": "2026-05-28T12:40:49Z",
       "owner": "AvdLee",
       "owner_avatar": "https://avatars.githubusercontent.com/u/4329185?v=4",
-      "license": "MIT"
+      "license": "MIT",
+      "owner_avatar_local": "https://raw.githubusercontent.com/zuoguyoupan2023/awesome-ai-skills/main/avatars/avdlee.png"
     },
     "BehiSecc/VibeSec-Skill": {
       "name": "BehiSecc/VibeSec-Skill",
@@ -49,7 +52,8 @@
       "pushed_at": "2026-02-17T14:03:16Z",
       "owner": "BehiSecc",
       "owner_avatar": "https://avatars.githubusercontent.com/u/226653201?v=4",
-      "license": "Apache-2.0"
+      "license": "Apache-2.0",
+      "owner_avatar_local": "https://raw.githubusercontent.com/zuoguyoupan2023/awesome-ai-skills/main/avatars/behisecc.png"
     },
     "CSlawyer1985/claude-for-legal-ZH": {
       "name": "CSlawyer1985/claude-for-legal-ZH",
@@ -76,7 +80,8 @@
       "pushed_at": "2026-06-03T15:51:18Z",
       "owner": "CSlawyer1985",
       "owner_avatar": "https://avatars.githubusercontent.com/u/197222219?v=4",
-      "license": "Apache-2.0"
+      "license": "Apache-2.0",
+      "owner_avatar_local": "https://raw.githubusercontent.com/zuoguyoupan2023/awesome-ai-skills/main/avatars/cslawyer1985.png"
     },
     "Charlie85270/Dorothy": {
       "name": "Charlie85270/Dorothy",
@@ -94,7 +99,8 @@
       "pushed_at": "2026-05-05T17:19:36Z",
       "owner": "Charlie85270",
       "owner_avatar": "https://avatars.githubusercontent.com/u/34569321?v=4",
-      "license": "MIT"
+      "license": "MIT",
+      "owner_avatar_local": "https://raw.githubusercontent.com/zuoguyoupan2023/awesome-ai-skills/main/avatars/charlie85270.png"
     },
     "CloudAI-X/threejs-skills": {
       "name": "CloudAI-X/threejs-skills",
@@ -107,7 +113,8 @@
       "pushed_at": "2026-01-19T21:15:32Z",
       "owner": "CloudAI-X",
       "owner_avatar": "https://avatars.githubusercontent.com/u/252792870?v=4",
-      "license": ""
+      "license": "",
+      "owner_avatar_local": "https://raw.githubusercontent.com/zuoguyoupan2023/awesome-ai-skills/main/avatars/cloudai-x.png"
     },
     "CosmoBlk/email-marketing-bible": {
       "name": "CosmoBlk/email-marketing-bible",
@@ -130,7 +137,8 @@
       "pushed_at": "2026-04-13T10:45:56Z",
       "owner": "CosmoBlk",
       "owner_avatar": "https://avatars.githubusercontent.com/u/5387356?v=4",
-      "license": "MIT"
+      "license": "MIT",
+      "owner_avatar_local": "https://raw.githubusercontent.com/zuoguyoupan2023/awesome-ai-skills/main/avatars/cosmoblk.png"
     },
     "Digidai/product-manager-skills": {
       "name": "Digidai/product-manager-skills",
@@ -164,7 +172,8 @@
       "pushed_at": "2026-04-12T03:05:07Z",
       "owner": "Digidai",
       "owner_avatar": "https://avatars.githubusercontent.com/u/2595292?v=4",
-      "license": "NOASSERTION"
+      "license": "NOASSERTION",
+      "owner_avatar_local": "https://raw.githubusercontent.com/zuoguyoupan2023/awesome-ai-skills/main/avatars/digidai.png"
     },
     "Eronred/aso-skills": {
       "name": "Eronred/aso-skills",
@@ -187,7 +196,8 @@
       "pushed_at": "2026-05-08T15:40:40Z",
       "owner": "Eronred",
       "owner_avatar": "https://avatars.githubusercontent.com/u/43992376?v=4",
-      "license": "MIT"
+      "license": "MIT",
+      "owner_avatar_local": "https://raw.githubusercontent.com/zuoguyoupan2023/awesome-ai-skills/main/avatars/eronred.png"
     },
     "EveryInc/charlie-cfo-skill": {
       "name": "EveryInc/charlie-cfo-skill",
@@ -200,7 +210,8 @@
       "pushed_at": "2026-01-29T18:00:05Z",
       "owner": "EveryInc",
       "owner_avatar": "https://avatars.githubusercontent.com/u/76073155?v=4",
-      "license": "MIT"
+      "license": "MIT",
+      "owner_avatar_local": "https://raw.githubusercontent.com/zuoguyoupan2023/awesome-ai-skills/main/avatars/everyinc.png"
     },
     "HeshamFS/materials-simulation-skills": {
       "name": "HeshamFS/materials-simulation-skills",
@@ -223,7 +234,8 @@
       "pushed_at": "2026-05-18T08:58:51Z",
       "owner": "HeshamFS",
       "owner_avatar": "https://avatars.githubusercontent.com/u/24739579?v=4",
-      "license": "Apache-2.0"
+      "license": "Apache-2.0",
+      "owner_avatar_local": "https://raw.githubusercontent.com/zuoguyoupan2023/awesome-ai-skills/main/avatars/heshamfs.png"
     },
     "Kevin7Qi/codex-collab": {
       "name": "Kevin7Qi/codex-collab",
@@ -242,7 +254,8 @@
       "pushed_at": "2026-05-20T12:31:26Z",
       "owner": "Kevin7Qi",
       "owner_avatar": "https://avatars.githubusercontent.com/u/39785330?v=4",
-      "license": "MIT"
+      "license": "MIT",
+      "owner_avatar_local": "https://raw.githubusercontent.com/zuoguyoupan2023/awesome-ai-skills/main/avatars/kevin7qi.png"
     },
     "LambdaTest/agent-skills": {
       "name": "LambdaTest/agent-skills",
@@ -255,7 +268,8 @@
       "pushed_at": "2026-05-30T12:53:56Z",
       "owner": "LambdaTest",
       "owner_avatar": "https://avatars.githubusercontent.com/u/27130435?v=4",
-      "license": "MIT"
+      "license": "MIT",
+      "owner_avatar_local": "https://raw.githubusercontent.com/zuoguyoupan2023/awesome-ai-skills/main/avatars/lambdatest.png"
     },
     "aklofas/kicad-happy": {
       "name": "aklofas/kicad-happy",
@@ -289,7 +303,8 @@
       "pushed_at": "2026-05-29T07:19:30Z",
       "owner": "aklofas",
       "owner_avatar": "https://avatars.githubusercontent.com/u/161774?v=4",
-      "license": "MIT"
+      "license": "MIT",
+      "owner_avatar_local": "https://raw.githubusercontent.com/zuoguyoupan2023/awesome-ai-skills/main/avatars/aklofas.png"
     },
     "angular/skills": {
       "name": "angular/skills",
@@ -302,7 +317,8 @@
       "pushed_at": "2026-06-03T23:12:24Z",
       "owner": "angular",
       "owner_avatar": "https://avatars.githubusercontent.com/u/139426?v=4",
-      "license": ""
+      "license": "",
+      "owner_avatar_local": "https://raw.githubusercontent.com/zuoguyoupan2023/awesome-ai-skills/main/avatars/angular.png"
     },
     "antonbabenko/terraform-skill": {
       "name": "antonbabenko/terraform-skill",
@@ -326,7 +342,8 @@
       "pushed_at": "2026-06-03T16:06:13Z",
       "owner": "antonbabenko",
       "owner_avatar": "https://avatars.githubusercontent.com/u/393243?v=4",
-      "license": "NOASSERTION"
+      "license": "NOASSERTION",
+      "owner_avatar_local": "https://raw.githubusercontent.com/zuoguyoupan2023/awesome-ai-skills/main/avatars/antonbabenko.png"
     },
     "awrshift/claude-memory-kit": {
       "name": "awrshift/claude-memory-kit",
@@ -356,7 +373,8 @@
       "pushed_at": "2026-06-03T14:34:42Z",
       "owner": "awrshift",
       "owner_avatar": "https://avatars.githubusercontent.com/u/175949198?v=4",
-      "license": "MIT"
+      "license": "MIT",
+      "owner_avatar_local": "https://raw.githubusercontent.com/zuoguyoupan2023/awesome-ai-skills/main/avatars/awrshift.png"
     },
     "bitwize-music-studio/claude-ai-music-skills": {
       "name": "bitwize-music-studio/claude-ai-music-skills",
@@ -390,7 +408,8 @@
       "pushed_at": "2026-06-04T03:15:28Z",
       "owner": "bitwize-music-studio",
       "owner_avatar": "https://avatars.githubusercontent.com/u/256226244?v=4",
-      "license": "CC0-1.0"
+      "license": "CC0-1.0",
+      "owner_avatar_local": "https://raw.githubusercontent.com/zuoguyoupan2023/awesome-ai-skills/main/avatars/bitwize-music-studio.png"
     },
     "blader/humanizer": {
       "name": "blader/humanizer",
@@ -403,7 +422,8 @@
       "pushed_at": "2026-05-27T02:55:25Z",
       "owner": "blader",
       "owner_avatar": "https://avatars.githubusercontent.com/u/1672?v=4",
-      "license": "MIT"
+      "license": "MIT",
+      "owner_avatar_local": "https://raw.githubusercontent.com/zuoguyoupan2023/awesome-ai-skills/main/avatars/blader.png"
     },
     "coderabbitai/skills": {
       "name": "coderabbitai/skills",
@@ -416,7 +436,8 @@
       "pushed_at": "2026-05-29T08:26:04Z",
       "owner": "coderabbitai",
       "owner_avatar": "https://avatars.githubusercontent.com/u/132028505?v=4",
-      "license": "MIT"
+      "license": "MIT",
+      "owner_avatar_local": "https://raw.githubusercontent.com/zuoguyoupan2023/awesome-ai-skills/main/avatars/coderabbitai.png"
     },
     "conorluddy/ios-simulator-skill": {
       "name": "conorluddy/ios-simulator-skill",
@@ -450,7 +471,8 @@
       "pushed_at": "2026-06-01T17:39:14Z",
       "owner": "conorluddy",
       "owner_avatar": "https://avatars.githubusercontent.com/u/846373?v=4",
-      "license": "MIT"
+      "license": "MIT",
+      "owner_avatar_local": "https://raw.githubusercontent.com/zuoguyoupan2023/awesome-ai-skills/main/avatars/conorluddy.png"
     },
     "coreyhaines31/marketingskills": {
       "name": "coreyhaines31/marketingskills",
@@ -467,7 +489,8 @@
       "pushed_at": "2026-05-29T22:10:37Z",
       "owner": "coreyhaines31",
       "owner_avatar": "https://avatars.githubusercontent.com/u/34802794?v=4",
-      "license": "MIT"
+      "license": "MIT",
+      "owner_avatar_local": "https://raw.githubusercontent.com/zuoguyoupan2023/awesome-ai-skills/main/avatars/coreyhaines31.png"
     },
     "czlonkowski/n8n-skills": {
       "name": "czlonkowski/n8n-skills",
@@ -484,7 +507,8 @@
       "pushed_at": "2026-05-06T13:23:16Z",
       "owner": "czlonkowski",
       "owner_avatar": "https://avatars.githubusercontent.com/u/56956555?v=4",
-      "license": "MIT"
+      "license": "MIT",
+      "owner_avatar_local": "https://raw.githubusercontent.com/zuoguyoupan2023/awesome-ai-skills/main/avatars/czlonkowski.png"
     },
     "deanpeters/Product-Manager-Skills": {
       "name": "deanpeters/Product-Manager-Skills",
@@ -503,7 +527,8 @@
       "pushed_at": "2026-05-20T12:25:44Z",
       "owner": "deanpeters",
       "owner_avatar": "https://avatars.githubusercontent.com/u/211423?v=4",
-      "license": "NOASSERTION"
+      "license": "NOASSERTION",
+      "owner_avatar_local": "https://raw.githubusercontent.com/zuoguyoupan2023/awesome-ai-skills/main/avatars/deanpeters.png"
     },
     "degausai/wonda": {
       "name": "degausai/wonda",
@@ -537,7 +562,8 @@
       "pushed_at": "2026-06-03T23:22:40Z",
       "owner": "degausai",
       "owner_avatar": "https://avatars.githubusercontent.com/u/219446448?v=4",
-      "license": ""
+      "license": "",
+      "owner_avatar_local": "https://raw.githubusercontent.com/zuoguyoupan2023/awesome-ai-skills/main/avatars/degausai.png"
     },
     "dembrandt/dembrandt-skills": {
       "name": "dembrandt/dembrandt-skills",
@@ -567,7 +593,8 @@
       "pushed_at": "2026-06-01T20:35:25Z",
       "owner": "dembrandt",
       "owner_avatar": "https://avatars.githubusercontent.com/u/247836031?v=4",
-      "license": "MIT"
+      "license": "MIT",
+      "owner_avatar_local": "https://raw.githubusercontent.com/zuoguyoupan2023/awesome-ai-skills/main/avatars/dembrandt.png"
     },
     "deusyu/translate-book": {
       "name": "deusyu/translate-book",
@@ -580,7 +607,8 @@
       "pushed_at": "2026-06-02T11:07:09Z",
       "owner": "deusyu",
       "owner_avatar": "https://avatars.githubusercontent.com/u/42929363?v=4",
-      "license": "MIT"
+      "license": "MIT",
+      "owner_avatar_local": "https://raw.githubusercontent.com/zuoguyoupan2023/awesome-ai-skills/main/avatars/deusyu.png"
     },
     "efremidze/swift-patterns-skill": {
       "name": "efremidze/swift-patterns-skill",
@@ -599,7 +627,8 @@
       "pushed_at": "2026-03-16T19:53:27Z",
       "owner": "efremidze",
       "owner_avatar": "https://avatars.githubusercontent.com/u/2286277?v=4",
-      "license": "MIT"
+      "license": "MIT",
+      "owner_avatar_local": "https://raw.githubusercontent.com/zuoguyoupan2023/awesome-ai-skills/main/avatars/efremidze.png"
     },
     "ehmo/platform-design-skills": {
       "name": "ehmo/platform-design-skills",
@@ -612,7 +641,8 @@
       "pushed_at": "2026-03-19T05:13:32Z",
       "owner": "ehmo",
       "owner_avatar": "https://avatars.githubusercontent.com/u/558128?v=4",
-      "license": "MIT"
+      "license": "MIT",
+      "owner_avatar_local": "https://raw.githubusercontent.com/zuoguyoupan2023/awesome-ai-skills/main/avatars/ehmo.png"
     },
     "ethos-link/rails-conventions": {
       "name": "ethos-link/rails-conventions",
@@ -625,7 +655,8 @@
       "pushed_at": "2026-05-28T20:51:07Z",
       "owner": "ethos-link",
       "owner_avatar": "https://avatars.githubusercontent.com/u/214983541?v=4",
-      "license": "MIT"
+      "license": "MIT",
+      "owner_avatar_local": "https://raw.githubusercontent.com/zuoguyoupan2023/awesome-ai-skills/main/avatars/ethos-link.png"
     },
     "foryourhealth111-pixel/Vibe-Skills": {
       "name": "foryourhealth111-pixel/Vibe-Skills",
@@ -658,7 +689,8 @@
       "pushed_at": "2026-05-19T15:42:16Z",
       "owner": "foryourhealth111-pixel",
       "owner_avatar": "https://avatars.githubusercontent.com/u/251585801?v=4",
-      "license": "Apache-2.0"
+      "license": "Apache-2.0",
+      "owner_avatar_local": "https://raw.githubusercontent.com/zuoguyoupan2023/awesome-ai-skills/main/avatars/foryourhealth111-pixel.png"
     },
     "frmoretto/clarity-gate": {
       "name": "frmoretto/clarity-gate",
@@ -687,7 +719,8 @@
       "pushed_at": "2026-03-02T12:12:45Z",
       "owner": "frmoretto",
       "owner_avatar": "https://avatars.githubusercontent.com/u/47558125?v=4",
-      "license": "NOASSERTION"
+      "license": "NOASSERTION",
+      "owner_avatar_local": "https://raw.githubusercontent.com/zuoguyoupan2023/awesome-ai-skills/main/avatars/frmoretto.png"
     },
     "fvadicamo/dev-agent-skills": {
       "name": "fvadicamo/dev-agent-skills",
@@ -711,7 +744,8 @@
       "pushed_at": "2026-05-17T21:36:00Z",
       "owner": "fvadicamo",
       "owner_avatar": "https://avatars.githubusercontent.com/u/1905363?v=4",
-      "license": "MIT"
+      "license": "MIT",
+      "owner_avatar_local": "https://raw.githubusercontent.com/zuoguyoupan2023/awesome-ai-skills/main/avatars/fvadicamo.png"
     },
     "gitroomhq/postiz-agent": {
       "name": "gitroomhq/postiz-agent",
@@ -734,7 +768,8 @@
       "pushed_at": "2026-06-02T08:39:51Z",
       "owner": "gitroomhq",
       "owner_avatar": "https://avatars.githubusercontent.com/u/128401275?v=4",
-      "license": "NOASSERTION"
+      "license": "NOASSERTION",
+      "owner_avatar_local": "https://raw.githubusercontent.com/zuoguyoupan2023/awesome-ai-skills/main/avatars/gitroomhq.png"
     },
     "gokapso/agent-skills": {
       "name": "gokapso/agent-skills",
@@ -752,7 +787,8 @@
       "pushed_at": "2026-06-03T15:53:37Z",
       "owner": "gokapso",
       "owner_avatar": "https://avatars.githubusercontent.com/u/163319555?v=4",
-      "license": ""
+      "license": "",
+      "owner_avatar_local": "https://raw.githubusercontent.com/zuoguyoupan2023/awesome-ai-skills/main/avatars/gokapso.png"
     },
     "google/skills": {
       "name": "google/skills",
@@ -769,7 +805,8 @@
       "pushed_at": "2026-06-03T19:23:23Z",
       "owner": "google",
       "owner_avatar": "https://avatars.githubusercontent.com/u/1342004?v=4",
-      "license": "Apache-2.0"
+      "license": "Apache-2.0",
+      "owner_avatar_local": "https://raw.githubusercontent.com/zuoguyoupan2023/awesome-ai-skills/main/avatars/google.png"
     },
     "hanfang/claude-memory-skill": {
       "name": "hanfang/claude-memory-skill",
@@ -790,7 +827,8 @@
       "pushed_at": "2026-02-07T22:26:42Z",
       "owner": "hanfang",
       "owner_avatar": "https://avatars.githubusercontent.com/u/6200194?v=4",
-      "license": "MIT"
+      "license": "MIT",
+      "owner_avatar_local": "https://raw.githubusercontent.com/zuoguyoupan2023/awesome-ai-skills/main/avatars/hanfang.png"
     },
     "helius-labs/core-ai": {
       "name": "helius-labs/core-ai",
@@ -809,7 +847,8 @@
       "pushed_at": "2026-05-30T04:16:49Z",
       "owner": "helius-labs",
       "owner_avatar": "https://avatars.githubusercontent.com/u/107892413?v=4",
-      "license": "MIT"
+      "license": "MIT",
+      "owner_avatar_local": "https://raw.githubusercontent.com/zuoguyoupan2023/awesome-ai-skills/main/avatars/helius-labs.png"
     },
     "honeydew-ai/honeydew-ai-coding-agents-plugins": {
       "name": "honeydew-ai/honeydew-ai-coding-agents-plugins",
@@ -830,7 +869,8 @@
       "pushed_at": "2026-05-24T12:22:04Z",
       "owner": "honeydew-ai",
       "owner_avatar": "https://avatars.githubusercontent.com/u/107431536?v=4",
-      "license": "Apache-2.0"
+      "license": "Apache-2.0",
+      "owner_avatar_local": "https://raw.githubusercontent.com/zuoguyoupan2023/awesome-ai-skills/main/avatars/honeydew-ai.png"
     },
     "hqhq1025/skill-optimizer": {
       "name": "hqhq1025/skill-optimizer",
@@ -863,7 +903,8 @@
       "pushed_at": "2026-05-14T07:25:31Z",
       "owner": "hqhq1025",
       "owner_avatar": "https://avatars.githubusercontent.com/u/78337154?v=4",
-      "license": "MIT"
+      "license": "MIT",
+      "owner_avatar_local": "https://raw.githubusercontent.com/zuoguyoupan2023/awesome-ai-skills/main/avatars/hqhq1025.png"
     },
     "ibelick/ui-skills": {
       "name": "ibelick/ui-skills",
@@ -879,7 +920,8 @@
       "pushed_at": "2026-05-28T17:47:03Z",
       "owner": "ibelick",
       "owner_avatar": "https://avatars.githubusercontent.com/u/14288396?v=4",
-      "license": "MIT"
+      "license": "MIT",
+      "owner_avatar_local": "https://raw.githubusercontent.com/zuoguyoupan2023/awesome-ai-skills/main/avatars/ibelick.png"
     },
     "indranilbanerjee/digital-marketing-pro": {
       "name": "indranilbanerjee/digital-marketing-pro",
@@ -913,7 +955,8 @@
       "pushed_at": "2026-06-03T21:21:59Z",
       "owner": "indranilbanerjee",
       "owner_avatar": "https://avatars.githubusercontent.com/u/1857369?v=4",
-      "license": "MIT"
+      "license": "MIT",
+      "owner_avatar_local": "https://raw.githubusercontent.com/zuoguyoupan2023/awesome-ai-skills/main/avatars/indranilbanerjee.png"
     },
     "jthack/ffuf_claude_skill": {
       "name": "jthack/ffuf_claude_skill",
@@ -926,7 +969,8 @@
       "pushed_at": "2025-10-16T19:39:14Z",
       "owner": "jthack",
       "owner_avatar": "https://avatars.githubusercontent.com/u/2989856?v=4",
-      "license": ""
+      "license": "",
+      "owner_avatar_local": "https://raw.githubusercontent.com/zuoguyoupan2023/awesome-ai-skills/main/avatars/jthack.png"
     },
     "k-kolomeitsev/data-structure-protocol": {
       "name": "k-kolomeitsev/data-structure-protocol",
@@ -955,7 +999,8 @@
       "pushed_at": "2026-03-23T15:43:04Z",
       "owner": "k-kolomeitsev",
       "owner_avatar": "https://avatars.githubusercontent.com/u/34948259?v=4",
-      "license": "Apache-2.0"
+      "license": "Apache-2.0",
+      "owner_avatar_local": "https://raw.githubusercontent.com/zuoguyoupan2023/awesome-ai-skills/main/avatars/k-kolomeitsev.png"
     },
     "komal-SkyNET/claude-skill-homeassistant": {
       "name": "komal-SkyNET/claude-skill-homeassistant",
@@ -974,7 +1019,8 @@
       "pushed_at": "2025-11-29T10:57:05Z",
       "owner": "komal-SkyNET",
       "owner_avatar": "https://avatars.githubusercontent.com/u/28682043?v=4",
-      "license": "MIT"
+      "license": "MIT",
+      "owner_avatar_local": "https://raw.githubusercontent.com/zuoguyoupan2023/awesome-ai-skills/main/avatars/komal-skynet.png"
     },
     "kreuzberg-dev/kreuzberg": {
       "name": "kreuzberg-dev/kreuzberg",
@@ -1008,7 +1054,8 @@
       "pushed_at": "2026-06-04T04:52:02Z",
       "owner": "kreuzberg-dev",
       "owner_avatar": "https://avatars.githubusercontent.com/u/241328462?v=4",
-      "license": "NOASSERTION"
+      "license": "NOASSERTION",
+      "owner_avatar_local": "https://raw.githubusercontent.com/zuoguyoupan2023/awesome-ai-skills/main/avatars/kreuzberg-dev.png"
     },
     "lackeyjb/playwright-skill": {
       "name": "lackeyjb/playwright-skill",
@@ -1035,7 +1082,8 @@
       "pushed_at": "2025-12-19T16:23:38Z",
       "owner": "lackeyjb",
       "owner_avatar": "https://avatars.githubusercontent.com/u/9823496?v=4",
-      "license": "MIT"
+      "license": "MIT",
+      "owner_avatar_local": "https://raw.githubusercontent.com/zuoguyoupan2023/awesome-ai-skills/main/avatars/lackeyjb.png"
     },
     "mukul975/Anthropic-Cybersecurity-Skills": {
       "name": "mukul975/Anthropic-Cybersecurity-Skills",
@@ -1068,7 +1116,8 @@
       "updated_at": "2026-06-04T05:46:46Z",
       "pushed_at": "2026-06-01T10:15:48Z",
       "owner": "mukul975",
-      "owner_avatar": "https://avatars.githubusercontent.com/u/42860185?v=4"
+      "owner_avatar": "https://avatars.githubusercontent.com/u/42860185?v=4",
+      "owner_avatar_local": "https://raw.githubusercontent.com/zuoguyoupan2023/awesome-ai-skills/main/avatars/mukul975.png"
     }
   }
 }
